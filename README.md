@@ -25,4 +25,9 @@ Many languages and libraries support NLP. Here are a few of the most useful.
 
 **Source / References:**
 https://www.deeplearning.ai/resources/natural-language-processing/
+
 https://spacy.io/api
+
+https://www.nltk.org/
+
+https://huggingface.co/
